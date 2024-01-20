@@ -14,7 +14,7 @@ cd/home/level/02 :pour se diriger vers le level 0 .
 ls -al :pour afficher tous les fichier dans le dossier 02.
 puis on se dirige vers un dossier (.porb)puis on fait ls -al pour afficher ses contenu ,
 enfin on trouve un fichier SOLUTION.txt et on fait cat pour voir la solution du level 2.
-[level 03]
 
+[level 03]
 cd/home/level/03 :pour se diriger vers le level 03 .
 ls -al :pour afficher les contenus du dossier 03.
